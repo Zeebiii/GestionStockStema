@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GestionStockStema
+namespace DTO
 {
-    public class Class1
+    public class BijouxFiltre
     {
+        public string Name { get; set; }
     }
 }

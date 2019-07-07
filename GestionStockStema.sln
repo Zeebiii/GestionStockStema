@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionStockStema", "Gestio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModel", "Bijoux\DomainModel.csproj", "{447A28C5-4344-4CFC-A576-04078C41A48E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseCase", "UseCase\UseCase.csproj", "{532D566F-B9A7-40B8-90CF-A21ABB18FC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{DCB42425-9627-491B-B7AE-DBE9765BE5FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{447A28C5-4344-4CFC-A576-04078C41A48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{447A28C5-4344-4CFC-A576-04078C41A48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{447A28C5-4344-4CFC-A576-04078C41A48E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532D566F-B9A7-40B8-90CF-A21ABB18FC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532D566F-B9A7-40B8-90CF-A21ABB18FC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532D566F-B9A7-40B8-90CF-A21ABB18FC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532D566F-B9A7-40B8-90CF-A21ABB18FC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB42425-9627-491B-B7AE-DBE9765BE5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB42425-9627-491B-B7AE-DBE9765BE5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB42425-9627-491B-B7AE-DBE9765BE5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB42425-9627-491B-B7AE-DBE9765BE5FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
